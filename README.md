@@ -8,14 +8,23 @@ This project aims to predict house prices using various regression models, advan
 ## 📁 Project Structure
 
 1.app.py # Gradio web app for manual predictions
+
 2. notebook.ipynb # Full data exploration, modeling, and training
+   
 3. xgb_model.pkl # Trained XGBoost model
+   
 4. scaler.pkl # Scaler for feature normalization
+
 5. feature_columns.pkl # Final features used in model
+
 6. train.csv # Training data (from Kaggle)
+
 7. test.csv # Test data (from Kaggle)
+
 8. submission.csv # Final predictions for Kaggle submission
+
 9. requirements.txt # All dependencies
+
 10. README.md # Project overview and instructions
 
 ## 🚀 Features
